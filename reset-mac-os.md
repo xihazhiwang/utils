@@ -10,3 +10,8 @@
 + 安装zsh主题 powerlevel9k []
 
 + 安装zsh字体 nert-font
+
+# 先執行這行，才能用 homebrew 安裝字型。曾經執行過的人可以跳過這個指令
+brew tap caskroom/fonts
+# 安裝指令
+brew cask install font-sourcecodepro-nerd-font

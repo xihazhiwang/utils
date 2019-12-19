@@ -11,3 +11,7 @@ ignore
 Shift + Command + A    输入Switch Boot JDK 选择本地安装的，不用idea自带的
 **idea2019.3已经不能使用该方法进行选择idea运行时选择的jdk，需要去plugin marketplace下载 Choose Runtime插件进行选择**
 **之后使用Shift + Command + A输入choose runtime进行选择jdk**
+
+
+#### idea2019.3 tomcat debugger 移动到了 command + 8 (services)解决方法
+在tool bar中选择tomcat，右键选择remove tomcat*****[大概是这个意思],之后，debugger就移动到了command + 5 中

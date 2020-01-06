@@ -1,4 +1,4 @@
-#### 生成get set方法(2019.3已失效，自带lombok)
+#### 生成get set方法
 ~~~
 Lombok
 ~~~

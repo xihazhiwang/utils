@@ -22,6 +22,11 @@ Shift + Command + A    输入Switch Boot JDK 选择本地安装的，不用idea�
 
 #### 代码缩放图插件(导览图) [CodeGlance](https://blog.csdn.net/defonds/article/details/79469148)
 
+#### 自动高亮括号
+~~~
+HighlightBracketPair
+~~~
+
 #### idea2019.3 tomcat debugger 移动到了 command + 8 (services)解决方法
 ~~~
 在tool bar中选择tomcat，右键选择remove tomcat server from services,之后，debugger就移动到了command + 5 中

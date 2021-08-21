@@ -1,4 +1,9 @@
 ####之前重新安装了mbp的系统，记录一下自己配置环境的一些过程
++ alias proxy='export all_proxy=socks5://127.0.0.1:11086'
++ alias unproxy='unset all_proxy'
++ export M2_HOME="/Users/hanbo/dev/apache-maven-3.6.1"
++ export PATH="$JAVA_HOME/bin:$M2_HOME/bin:$PATH"
+
 + 安装brew
 
 + 安装scroll-reverser，需要在安全性与隐私-辅助功能勾选scroll-reverser
